@@ -4,7 +4,7 @@
 **Azur3-bit/Azur3-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+
 - 🔭 I’m currently working on AstroVims Configs
 - 🌱 I’m currently learning Lua
 - 👯 I’m looking to collaborate on Python projects based on Machine learning and Databases
@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Azure
 - ⚡ Fun fact: I can sleep for 28hrs.
 
+-->
